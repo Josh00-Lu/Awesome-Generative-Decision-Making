@@ -110,7 +110,7 @@ This repository collects papers on generative decision-making (diffusion-based, 
 [Code](https://github.com/real-stanford/diffusion_policy)
 [Project](https://diffusion-policy.cs.columbia.edu/)
 
-## Repos & Benchmarks
+## Codebases & Benchmarks
 - (NIPS 2024) **_CleanDiffuser_**: CleanDiffuser: An Easy-to-use Modularized Library for Diffusion Models in Decision Making.
 [Paper](https://arxiv.org/abs/2406.09509)
 [Code](https://github.com/CleanDiffuserTeam/CleanDiffuser)
