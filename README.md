@@ -131,3 +131,9 @@ This repository collects papers on generative decision-making (diffusion-based, 
 
 - **_Gymnasium_**:
 [Doc](https://gymnasium.farama.org/)
+
+
+
+
+# Notes
+This list is mainly for personal use. If you have any questions, please feel free to contact me via email (josh00.lu (at) gmail.com).
