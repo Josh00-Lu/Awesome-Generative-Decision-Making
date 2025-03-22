@@ -1,6 +1,13 @@
 # Awesome-Generative-Decision-Making
 This repository collects papers on generative decision-making (diffusion-based, mostly). Conference acceptance information is updated occasionally.
 
+## World Models
+#### Visual World Models
+- **_DINO-WM_**: World Models on Pre-trained Visual Features enable Zero-shot Planning
+[Paper](https://arxiv.org/abs/2411.04983)
+[Project](https://dino-wm.github.io/)
+[Code](https://github.com/gaoyuezhou/dino_wm)
+
 ## Offline Reinforcement Learning
 #### Flow Matching (Model-Free)
 - **_FQL_**: Flow Q-Learning. 🔥
@@ -25,12 +32,21 @@ This repository collects papers on generative decision-making (diffusion-based, 
 
 
 #### Diffusion Planner (Model-based)
+- **_CompDiffuser_**: Generative Trajectory Stitching through Diffusion Composition
+[Paper](http://arxiv.org/abs/2503.05153)
+[Project](https://comp-diffuser.github.io/)
+
+- **_Diffusion-Forcing-v2_**: 
+[Paper](https://arxiv.org/abs/2502.06764)
+[Project](https://boyuan.space/history-guidance/)
+[Code](https://github.com/kwsong0113/diffusion-forcing-transformer)
+
 - (CVPR 2025) **_DexHandDiff_**: DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation.
-[Paper](https://arxiv.org/pdf/2411.18562)
+[Paper](https://arxiv.org/abs/2411.18562)
 [Project](https://dexdiffuser.github.io/)
 
 - (ICLR 2025) **_Diffusion-Planner_**: Diffusion-Based Planning for Autonomous Driving with Flexible Guidance.
-[Paper](https://arxiv.org/pdf/2501.15564)
+[Paper](https://arxiv.org/abs/2501.15564)
 [Code](https://github.com/ZhengYinan-AIR/Diffusion-Planner)
 [Project](https://zhengyinan-air.github.io/Diffusion-Planner/)
 
