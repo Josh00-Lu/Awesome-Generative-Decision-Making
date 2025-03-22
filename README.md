@@ -36,7 +36,7 @@ This repository collects papers on generative decision-making (diffusion-based, 
 [Paper](http://arxiv.org/abs/2503.05153)
 [Project](https://comp-diffuser.github.io/)
 
-- **_Diffusion-Forcing-v2_**: 
+- **_Diffusion-Forcing-v2_**: Diffusion Forcing Transformer with History Guidance
 [Paper](https://arxiv.org/abs/2502.06764)
 [Project](https://boyuan.space/history-guidance/)
 [Code](https://github.com/kwsong0113/diffusion-forcing-transformer)
