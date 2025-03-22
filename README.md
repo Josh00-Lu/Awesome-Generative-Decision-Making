@@ -32,6 +32,9 @@ This repository collects papers on generative decision-making (diffusion-based, 
 
 
 #### Diffusion Planner (Model-based)
+- **_MCTD_**: Monte Carlo Tree Diffusion for System 2 Planning
+[Paper](https://arxiv.org/abs/2502.07202)
+
 - **_CompDiffuser_**: Generative Trajectory Stitching through Diffusion Composition
 [Paper](http://arxiv.org/abs/2503.05153)
 [Project](https://comp-diffuser.github.io/)
